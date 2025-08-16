@@ -27,7 +27,7 @@ You can download the original dataset from:
 
 ---
 
-## ⚙️ How to Run in Google Colab
+## How to Run in Google Colab
 
 ### 1. Mount Google Drive
 ```python
